@@ -24,6 +24,11 @@ Aplicação simples em **Python** utilizando **Streamlit** para consultar cotaç
 
 Clone este repositório:
 
-```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
+
+### 🧾 Licença
+Este projeto é de uso livre para fins educacionais e demonstração.
+Sinta-se à vontade para modificar e aprimorar conforme suas necessidades.
+
+Iago Monfredini - Coryright
